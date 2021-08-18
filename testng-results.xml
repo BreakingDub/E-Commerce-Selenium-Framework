@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="538400" started-at="2021-08-18T16:39:48 IST" finished-at="2021-08-18T16:48:46 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/ptw/Desktop/FrameworkMyntra/src/test/java/com/qa/myntra/com/qa/myntra" duration-ms="538400" started-at="2021-08-18T16:39:48 IST" finished-at="2021-08-18T16:48:46 IST">
+      <class name="com.qa.myntra.com.qa.myntra.mensPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.mensPageTest@56235b8e]" name="setup" is-config="true" duration-ms="15350" started-at="2021-08-18T16:42:48 IST" finished-at="2021-08-18T16:43:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.qa.myntra.com.qa.myntra.mensPageTest@56235b8e]" name="testcase1" duration-ms="22899" started-at="2021-08-18T16:43:03 IST" finished-at="2021-08-18T16:43:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.mensPageTest@56235b8e]" name="teardown" is-config="true" duration-ms="1089" started-at="2021-08-18T16:43:26 IST" finished-at="2021-08-18T16:43:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.myntra.com.qa.myntra.mensPageTest -->
+      <class name="com.qa.myntra.com.qa.myntra.productPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="setup" is-config="true" duration-ms="20231" started-at="2021-08-18T16:43:59 IST" finished-at="2021-08-18T16:44:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:1, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="testcase1" duration-ms="8675" started-at="2021-08-18T16:44:19 IST" finished-at="2021-08-18T16:44:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="teardown" is-config="true" duration-ms="3023" started-at="2021-08-18T16:44:28 IST" finished-at="2021-08-18T16:44:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="setup" is-config="true" duration-ms="18558" started-at="2021-08-18T16:44:31 IST" finished-at="2021-08-18T16:44:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase2()[pri:2, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="testcase2" duration-ms="3726" started-at="2021-08-18T16:44:49 IST" finished-at="2021-08-18T16:44:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="teardown" is-config="true" duration-ms="1121" started-at="2021-08-18T16:44:53 IST" finished-at="2021-08-18T16:44:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="setup" is-config="true" duration-ms="21872" started-at="2021-08-18T16:44:54 IST" finished-at="2021-08-18T16:45:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase3()[pri:3, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="testcase3" duration-ms="10414" started-at="2021-08-18T16:45:16 IST" finished-at="2021-08-18T16:45:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.productPageTest@2286778]" name="teardown" is-config="true" duration-ms="2325" started-at="2021-08-18T16:45:26 IST" finished-at="2021-08-18T16:45:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.myntra.com.qa.myntra.productPageTest -->
+      <class name="com.qa.myntra.com.qa.myntra.loginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.loginPageTest@6fc6f14e]" name="setup" is-config="true" duration-ms="26752" started-at="2021-08-18T16:42:09 IST" finished-at="2021-08-18T16:42:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.qa.myntra.com.qa.myntra.loginPageTest@6fc6f14e]" name="testcase1" duration-ms="10672" started-at="2021-08-18T16:42:36 IST" finished-at="2021-08-18T16:42:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.loginPageTest@6fc6f14e]" name="teardown" is-config="true" duration-ms="1427" started-at="2021-08-18T16:42:46 IST" finished-at="2021-08-18T16:42:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.myntra.com.qa.myntra.loginPageTest -->
+      <class name="com.qa.myntra.com.qa.myntra.mensShoesPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.mensShoesPageTest@3632be31]" name="setup" is-config="true" duration-ms="20696" started-at="2021-08-18T16:43:27 IST" finished-at="2021-08-18T16:43:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.qa.myntra.com.qa.myntra.mensShoesPageTest@3632be31]" name="testcase1" duration-ms="7894" started-at="2021-08-18T16:43:48 IST" finished-at="2021-08-18T16:43:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.mensShoesPageTest@3632be31]" name="teardown" is-config="true" duration-ms="2884" started-at="2021-08-18T16:43:56 IST" finished-at="2021-08-18T16:43:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.myntra.com.qa.myntra.mensShoesPageTest -->
+      <class name="com.qa.myntra.com.qa.myntra.homePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="setup" is-config="true" duration-ms="30182" started-at="2021-08-18T16:39:48 IST" finished-at="2021-08-18T16:40:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="testcase1" duration-ms="57632" started-at="2021-08-18T16:40:18 IST" finished-at="2021-08-18T16:41:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="tearDownb()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="tearDownb" is-config="true" duration-ms="3249" started-at="2021-08-18T16:41:16 IST" finished-at="2021-08-18T16:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownb -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="setup" is-config="true" duration-ms="23057" started-at="2021-08-18T16:41:19 IST" finished-at="2021-08-18T16:41:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="testcase2" duration-ms="3288" started-at="2021-08-18T16:41:42 IST" finished-at="2021-08-18T16:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="tearDownb()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="tearDownb" is-config="true" duration-ms="1551" started-at="2021-08-18T16:41:46 IST" finished-at="2021-08-18T16:41:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownb -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="setup" is-config="true" duration-ms="13341" started-at="2021-08-18T16:41:47 IST" finished-at="2021-08-18T16:42:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="testcase3" duration-ms="6990" started-at="2021-08-18T16:42:00 IST" finished-at="2021-08-18T16:42:07 IST">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
+            <message>
+              <![CDATA[stale element reference: element is not attached to the page document
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTWB-IT-LEN-209', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\ptw\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:56152}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2150f4d8f1936c4c23d7128ab3115431]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=92.0.4515.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PTWB-IT-LEN-209', ip: '192.168.0.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\ptw\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:56152}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2150f4d8f1936c4c23d7128ab3115431
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:166)
+at com.qa.myntra.pages.homePage.searchingItems(homePage.java:74)
+at com.qa.myntra.com.qa.myntra.homePageTest.testcase3(homePageTest.java:41)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="tearDownb()[pri:0, instance:com.qa.myntra.com.qa.myntra.homePageTest@cb644e]" name="tearDownb" is-config="true" duration-ms="1452" started-at="2021-08-18T16:42:07 IST" finished-at="2021-08-18T16:42:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownb -->
+      </class> <!-- com.qa.myntra.com.qa.myntra.homePageTest -->
+      <class name="com.qa.myntra.com.qa.myntra.shoppingBagTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="setup" is-config="true" duration-ms="57585" started-at="2021-08-18T16:45:29 IST" finished-at="2021-08-18T16:46:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="testcase1" duration-ms="1242" started-at="2021-08-18T16:46:26 IST" finished-at="2021-08-18T16:46:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="teardown" is-config="true" duration-ms="1290" started-at="2021-08-18T16:46:27 IST" finished-at="2021-08-18T16:46:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="setup" is-config="true" duration-ms="33527" started-at="2021-08-18T16:46:29 IST" finished-at="2021-08-18T16:47:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="testcase2" duration-ms="1316" started-at="2021-08-18T16:47:02 IST" finished-at="2021-08-18T16:47:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="teardown" is-config="true" duration-ms="1175" started-at="2021-08-18T16:47:04 IST" finished-at="2021-08-18T16:47:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="setup" is-config="true" duration-ms="31833" started-at="2021-08-18T16:47:05 IST" finished-at="2021-08-18T16:47:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="testcase3" duration-ms="1739" started-at="2021-08-18T16:47:37 IST" finished-at="2021-08-18T16:47:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="teardown" is-config="true" duration-ms="2295" started-at="2021-08-18T16:47:38 IST" finished-at="2021-08-18T16:47:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="setup" is-config="true" duration-ms="33073" started-at="2021-08-18T16:47:41 IST" finished-at="2021-08-18T16:48:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="testcase4" duration-ms="887" started-at="2021-08-18T16:48:14 IST" finished-at="2021-08-18T16:48:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="teardown" is-config="true" duration-ms="1188" started-at="2021-08-18T16:48:15 IST" finished-at="2021-08-18T16:48:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="setup" is-config="true" duration-ms="25209" started-at="2021-08-18T16:48:16 IST" finished-at="2021-08-18T16:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="testcase5" duration-ms="4059" started-at="2021-08-18T16:48:41 IST" finished-at="2021-08-18T16:48:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.myntra.com.qa.myntra.shoppingBagTest@4e9ba398]" name="teardown" is-config="true" duration-ms="1512" started-at="2021-08-18T16:48:45 IST" finished-at="2021-08-18T16:48:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.myntra.com.qa.myntra.shoppingBagTest -->
+    </test> <!-- C:/Users/ptw/Desktop/FrameworkMyntra/src/test/java/com/qa/myntra/com/qa/myntra -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

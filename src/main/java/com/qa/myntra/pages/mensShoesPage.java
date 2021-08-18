@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class mensShoesPage extends testbase {
-    @FindBy(xpath = "//img[@title='HIGHLANDER Men White Solid Leather Sneakers']")
+    @FindBy(xpath = "//img[@title='Tommy Hilfiger Men Green Regular Fit Solid Satin Finish Casual Shirt']")
     WebElement pumaShoes;
 
     public mensShoesPage() {

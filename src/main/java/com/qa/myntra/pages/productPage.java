@@ -27,7 +27,7 @@ public class productPage extends testbase {
     @FindBy(xpath = "//button[@class='size-buttons-show-size-chart']")
     WebElement sizeChart;
 
-    @FindBy(id = "44596708")
+    @FindBy(id = "47410520")
     WebElement sizeselector;
 
     @FindBy(xpath = "//strong[normalize-space()='Rs. 1474']")

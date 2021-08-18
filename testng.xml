@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+
+    <listener class-name="com.qa.myntra.ExtentReportListener.ExtentReportListener"/>
+
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/ptw/Desktop/FrameworkMyntra/src/test/java/com/qa/myntra/com/qa/myntra">
+        <classes>
+            <class name="com.qa.myntra.com.qa.myntra.homePageTest">
+                <methods>
+                    <include name="testcase1"/>
+                    <include name="testcase2"/>
+                    <include name="testcase3"/>
+                </methods>
+            </class>
+            <class name="com.qa.myntra.com.qa.myntra.loginPageTest">
+                <methods>
+                    <include name="testcase1"/>
+                </methods>
+            </class>
+            <class name="com.qa.myntra.com.qa.myntra.mensPageTest">
+                <methods>
+                    <include name="testcase1"/>
+                </methods>
+            </class>
+            <class name="com.qa.myntra.com.qa.myntra.mensShoesPageTest">
+                <methods>
+                    <include name="testcase1"/>
+                </methods>
+            </class>
+            <class name="com.qa.myntra.com.qa.myntra.productPageTest">
+                <methods>
+                    <include name="testcase1"/>
+                    <include name="testcase2"/>
+                    <include name="testcase3"/>
+                </methods>
+            </class>
+            <class name="com.qa.myntra.com.qa.myntra.shoppingBagTest">
+                <methods>
+                    <include name="testcase1"/>
+                    <include name="testcase2"/>
+                    <include name="testcase3"/>
+                    <include name="testcase4"/>
+                    <include name="testcase5"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

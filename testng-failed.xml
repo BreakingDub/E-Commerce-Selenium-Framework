@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="C:/Users/ptw/Desktop/FrameworkMyntra/src/test/java/com/qa/myntra/com/qa/myntra(failed)">
+    <classes>
+      <class name="com.qa.myntra.com.qa.myntra.shoppingBagTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="testcase2"/>
+        </methods>
+      </class> <!-- com.qa.myntra.com.qa.myntra.shoppingBagTest -->
+    </classes>
+  </test> <!-- C:/Users/ptw/Desktop/FrameworkMyntra/src/test/java/com/qa/myntra/com/qa/myntra(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
