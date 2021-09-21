@@ -17,11 +17,6 @@ import com.twilio.base.ResourceSet;
 import com.twilio.rest.api.v2010.account.Message;
 import org.openqa.selenium.interactions.Actions;
 
-/**
- *
- * @author NaveenKhunteta
- *
- */
 public class util extends testbase {
 
     public static final String ACCOUNT_SID = "AC924b662e62bb7fa2ec5ea0d6a198d2c3";
